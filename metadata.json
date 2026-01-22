@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HR Match - AI Resource Allocator",
+  "description": "An intelligent dashboard for matching employees to projects based on skills, experience, and availability using a Weighted Sum Model.",
+  "requestFramePermissions": []
+}
